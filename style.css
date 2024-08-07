@@ -9,11 +9,11 @@
     font-family:'Gill Sans' , 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-:root{
-    --bg-color: #081b29;
-    --second-bg-color: #112e42;
-    --text-color: #ededed;
-    --main-color:#00abf0;
+:root {
+    --bg-color: #1a1a2e; /* Dark blue for background */
+    --second-bg-color: #16213e; /* Slightly lighter dark blue for secondary background */
+    --text-color: #ffffff; /* White for text to ensure readability */
+    --main-color: #e94560; /* Vivid red-pink for main highlights */
 }
 
 html{
