@@ -10,10 +10,10 @@
 }
 
 :root {
-    --bg-color: #1a1a2e; /* Dark blue for background */
-    --second-bg-color: #16213e; /* Slightly lighter dark blue for secondary background */
-    --text-color: #ffffff; /* White for text to ensure readability */
-    --main-color: #e94560; /* Vivid red-pink for main highlights */
+    --bg-color: #282c34; /* Dark grey-blue for background */
+    --second-bg-color: #3c4049; /* Slightly lighter grey-blue for secondary background */
+    --text-color: #f5f5f5; /* Very light grey for text to ensure readability */
+    --main-color: #61dafb; /* Soft cyan for main highlights */
 }
 
 html{
